@@ -2,10 +2,11 @@
   "id": "wfrp4e-warriors-of-salvation",
   "title": "WFRP4e - Warriors of Salvation",
   "description": "A module with homebrew WFRP 4e Divine Careers written by BigBoss#3259",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13",
+    "maximum": "13"
   },
   "authors": [
     {
@@ -18,6 +19,18 @@
       "discord": "BigBoss#3259",
       "flags": {}
     }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "manifest": "https://github.com/moo-man/WFRP4e-FoundryVTT/releases/latest/download/system.json"
+      }
+    ]
+  },
+  "scripts": [
+    "initialization.js"
   ],
   "packs": [
     {
@@ -80,9 +93,6 @@
       "color": "#b39e29",
       "folders": []
     }
-  ],
-  "esmodules": [
-    "scripts/init.js"
   ],
   "url": "https://github.com/artptz/wfrp4e-divine",
   "manifest": "https://raw.githubusercontent.com/artptz/wfrp4e-divine/main/module.json",

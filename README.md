@@ -1,5 +1,8 @@
 # Change LOG
 
+## v2.0
+Updated for v13
+
 ## v1.3
 Added Crusader, Knight of the Fiery Heart, Rajput and Shinjin Monk careers\
 Added The Nio and She'ar Khan Journals and Miracles\
