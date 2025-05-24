@@ -98,6 +98,6 @@
     }
   ],
   "url": "https://github.com/artptz/wfrp4e-divine",
-  "manifest": "https://github.com/artptz/wfrp4e-mutations/releases/download/latest/module.json",
-  "download": "https://github.com/artptz/wfrp4e-mutations/releases/download/v2.0.0/artantares-mutations.zip"
+  "manifest": "https://github.com/artptz/wfrp4e-divine/releases/download/latest/module.json",
+  "download": "https://github.com/artptz/wfrp4e-divine/releases/download/v1.3.0/artantares-wos.zip"
 }
