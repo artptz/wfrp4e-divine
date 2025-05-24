@@ -2,9 +2,9 @@
   "id": "wfrp4e-warriors-of-salvation",
   "title": "WFRP4e - Warriors of Salvation",
   "description": "A module with homebrew WFRP 4e Divine Careers written by BigBoss#3259",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "compatibility": {
-    "minimum": "12",
+    "minimum": "13",
     "verified": "13",
     "maximum": "13"
   },
@@ -30,7 +30,8 @@
     ]
   },
   "scripts": [
-    "initialization.js"
+    "/scripts/initialization.js",
+    "/scripts/careers.js"
   ],
   "packs": [
     {
