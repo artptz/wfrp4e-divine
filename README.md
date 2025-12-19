@@ -1,7 +1,8 @@
 # Change LOG
 
-## v2.0.1
+## v2.1.0
 Correct download link
+Update folder structure
 
 ## v2.0
 Updated for v13
