@@ -1,11 +1,11 @@
 {
-  "id": "artantares-warriors-of-salvation",
-  "title": "ArtAntares - Warriors of Salvation [WFRP4E]",
+  "id": "antares-warriors-of-salvation",
+  "title": "Antares | Warriors of Salvation [WFRP4E]",
   "description": "A module with homebrew WFRP 4e Divine Careers written by BigBoss#3259",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13.351"
+    "minimum": "14",
+    "verified": "14"
   },
   "authors": [
     {
@@ -100,6 +100,6 @@
   ],
   "url": "https://github.com/artptz/wfrp4e-divine",
   "manifest": "https://github.com/artptz/wfrp4e-divine/releases/latest/download/module.json",
-  "download": "https://github.com/artptz/wfrp4e-divine/releases/download/v2.1.0/artantares-wos.zip",
+  "download": "https://github.com/artptz/wfrp4e-divine/releases/download/v3.0.0/antares-wos.zip",
   "flags": {}
 }
